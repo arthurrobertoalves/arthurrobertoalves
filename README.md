@@ -28,11 +28,11 @@ Estou em constante aprendizado e busco construir uma base sólida em desenvolvim
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
 
 <img 
