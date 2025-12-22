@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Arthur Roberto
-**`Estudante de Informática`**
+**`Técnico em Informática`**
 
-Sou Arthur Roberto, estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando em programação com foco em back-end, estudando linguagens como Python e JavaScript. Tenho interesse especial por estruturas de dados, algoritmos, APIs e banco de dados. Meu objetivo é me tornar um desenvolvedor back-end profissional, capaz de criar soluções eficientes, escaláveis e seguras para problemas do mundo real.
+Sou Arthur Roberto, estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando em programação com foco em Desenvolvimento Full Stack, estudando linguagens como  JavaScript. Tenho interesse especial por estruturas de dados, algoritmos, APIs e banco de dados. Meu objetivo é me tornar um desenvolvedor Full Stack profissional, capaz de criar soluções eficientes, escaláveis e seguras para problemas do mundo real.
 
 Estou em constante aprendizado e busco construir uma base sólida em desenvolvimento web, boas práticas de código e metodologias ágeis, enquanto participo de projetos práticos e desafios que me aproximam do mercado de trabalho.
 
@@ -11,11 +11,11 @@ Estou em constante aprendizado e busco construir uma base sólida em desenvolvim
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Nest"
+    title="Nest" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
     align="left" 
@@ -28,33 +28,9 @@ Estou em constante aprendizado e busco construir uma base sólida em desenvolvim
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📖Estudante
-
-Estudante de Informática no CEAP, desenvolvendo habilidades técnicas em programação, redes e suporte. Em constante aprendizado, com foco em tecnologia e no desenvolvimento de soluções práticas para o dia a dia
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    
