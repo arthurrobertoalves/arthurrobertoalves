@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Roberto</h1>
 
 <p align="center">
-  Desenvolvedor de Software · Co-founder & CTO at <a href="https://arbon-os.vercel.app">Arbon</a>
+  Desenvolvedor de Software · Co-founder & CTO at <a href="https://arbon-os.vercel.app">Arbon HR</a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-Desenvolvedor de software com experiência em TypeScript, NestJS e Node.js, atuando como Co-founder & CTO na Arbon — HRtech brasileira que aplica IA e análise comportamental para tornar processos seletivos mais precisos. Responsável pela arquitetura da API REST, pipeline de IA, integrações e segurança da aplicação (pentest, OWASP, BOLA/IDOR).
+Desenvolvedor de software com experiência em TypeScript, NestJS e Node.js, atuando como Co-founder & CTO na Arbon — HRtech brasileira que aplica IA e análise comportamental para tornar processos seletivos mais precisos. Responsável pela arquitetura da API REST, pipeline de IA, integrações e segurança da aplicação (pentest, OWASP, AppSec, Blue Team).
 
 ```ts
 const arthur = {
@@ -52,8 +52,7 @@ const arthur = {
 ### Projetos em destaque
 
 **Arbon** `private` — HRtech · TypeScript · NestJS · PostgreSQL · IA  
-Plataforma de contratação baseada em evidências comportamentais. Responsável pela arquitetura da API REST, pipeline de IA para análise de candidatos, integrações e segurança da aplicação (pentest, OWASP ZAP, BOLA/IDOR).
-
+Plataforma de contratação baseada em evidências comportamentais. Responsável pela arquitetura da API REST, pipeline de IA para análise de candidatos, integrações e segurança da aplicação (pentest, OWASP, BlueTeam)
 **[git-sniffer](https://github.com/arthurrobertoalves/git-sniffer)** — Chrome Extension · TypeScript · Vite · Groq API  
 Extensão para Chrome que permite conversar com repositórios do GitHub via IA. Construída com Manifest V3, IndexedDB e Groq API.
 
@@ -72,8 +71,3 @@ Extensão para Chrome que permite conversar com repositórios do GitHub via IA. 
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=arthurrobertoalves&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
-  />
-</p>
