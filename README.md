@@ -53,6 +53,8 @@ const arthur = {
 
 **Arbon** `private` — HRtech · TypeScript · NestJS · PostgreSQL · IA  
 Plataforma de contratação baseada em evidências comportamentais. Responsável pela arquitetura da API REST, pipeline de IA para análise de candidatos, integrações e segurança da aplicação (pentest, OWASP, BlueTeam)
+
+
 **[git-sniffer](https://github.com/arthurrobertoalves/git-sniffer)** — Chrome Extension · TypeScript · Vite · Groq API  
 Extensão para Chrome que permite conversar com repositórios do GitHub via IA. Construída com Manifest V3, IndexedDB e Groq API.
 
